@@ -3,6 +3,9 @@
 class HelloWorldTest extends PHPUnit_Framework_TestCase
 {
     /**
+    holy shit
+    */
+    /**
      * @var PDO
      */
     private $pdo;
